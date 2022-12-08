@@ -1,0 +1,11 @@
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\bin\Debug\SimpleUseOfDatabase.exe.config
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\bin\Debug\SimpleUseOfDatabase.exe
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\bin\Debug\SimpleUseOfDatabase.pdb
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\obj\Debug\SimpleUseOfDatabase.csproj.AssemblyReference.cache
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\obj\Debug\SimpleUseOfDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\obj\Debug\SimpleUseOfDatabase.Form1.resources
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\obj\Debug\SimpleUseOfDatabase.Properties.Resources.resources
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\obj\Debug\SimpleUseOfDatabase.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\obj\Debug\SimpleUseOfDatabase.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\obj\Debug\SimpleUseOfDatabase.exe
+C:\Users\dejan\Desktop\CShark\SimpleUseOfDatabase\SolSimpleUseOfDatabase\SimpleUseOfDatabase\obj\Debug\SimpleUseOfDatabase.pdb

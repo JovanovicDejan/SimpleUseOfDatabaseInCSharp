@@ -16,5 +16,26 @@ namespace SimpleUseOfDatabase
         {
             InitializeComponent();
         }
+        private void btnAddProduct_Click(object sender, EventArgs e)
+        {
+            frmAddProduct addProduct = new frmAddProduct();
+            addProduct.ShowDialog();
+        }
+        private void btnShowAllProducts_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void btnUpdateProduct_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnDeleteProduct_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+
     }
 }

@@ -8,6 +8,8 @@ namespace SimpleUseOfDatabase
 {
     public class clsOrderDetails
     {
-        public 
+        public int productID;
+        public double unitprice;
+        public int qty;
     }
 }
